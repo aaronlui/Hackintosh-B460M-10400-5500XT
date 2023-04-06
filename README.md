@@ -1,6 +1,6 @@
 # Hackintosh-B460M-10400-5500XT
 
-基于MacOS 12.5和OpenCore 0.8.2
+基于MacOS 13.3和OpenCore 0.9.1
 
 需自行修改MLB、ROM、SystemSerialNumber和SystemUUID
 
